@@ -40,7 +40,7 @@ Berisi index.php.
 Folder src berisi folder Controller dan juga Model.
 
 => Folder Controller
-File Controller-controller ini bertugas mengelola operasi CRUD (Create, Read, Update, Delete)
+File Controller-controller ini bertugas mengelola operasi CRUD (Create, Read, Update, Delete) sesuai dengan bagian-bagiannya seperti Customer, Purchase dan juga Sales.
 - CustomerController.php
 - PurchaseController.php
 - SalesController.php
