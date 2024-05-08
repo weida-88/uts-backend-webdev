@@ -28,6 +28,7 @@ Projek ini saya awali dengan membuat struktur folder sesuai dengan intruksi yait
 
 Kemudian saya push ke repository github saya. Berikut penjelasan di dalam 
 
+~~~
 =>> Folder public
 Berisi index.php.
 - index.php: berfungsi sebagai halaman untuk akses para pengguna, sesuai intruksi untuk saat ini hanya berisikan sebuah header.
@@ -49,6 +50,7 @@ File ini bertanggung jawab untuk mengeksekusi query berdasarkan informasi yang d
 =>> Folder Model
 Berisi file database.php.
 - database.php: Berfungsi  untuk konfigurasi hubungan ke database.
+~~~
 
 <h1>Refleksi Diri</h1>
 <h3>Tantangan dan Kesulitan</h3>
