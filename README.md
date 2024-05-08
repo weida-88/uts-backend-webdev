@@ -55,7 +55,7 @@ File ini bertanggung jawab untuk mengeksekusi query berdasarkan informasi yang d
 
 =>> Folder Model
 Berisi file database.php.
-- database.php: Berfungsi  untuk konfigurasi hubungan ke database.
+- database.php: Berfungsi sebagai konfigurasi untuk penghubung ke database.
 ~~~
 
 <br>
