@@ -37,9 +37,10 @@ Berisi index.php.
 Folder src berisi folder Controller dan juga Model.
 
 => Folder Controller
-- CustomerController.php: Controller ini bertugas mengelola operasi CRUD (Create, Read, Update, Delete) yang berkaitan dengan pelanggan. File ini berisi serangkaian metode untuk mengambil semua data pelanggan, data pelanggan berdasarkan ID, menambahkan pelanggan baru, memperbarui data pelanggan, dan menghapus data pelanggan. Controller ini berinteraksi dengan file model Customers.php.
-- PurchaseController.php: Controller ini bertugas mengelola operasi CRUD (Create, Read, Update, Delete) yang berkaitan dengan pelanggan. File ini berisi serangkaian metode untuk mengambil semua data pelanggan, data pelanggan berdasarkan ID, menambahkan pelanggan baru, memperbarui data pelanggan, dan menghapus data pelanggan. Controller ini berinteraksi dengan file model Customers.php.
-- SalesController.php: Controller ini bertugas mengelola operasi CRUD (Create, Read, Update, Delete) yang berkaitan dengan pelanggan. File ini berisi serangkaian metode untuk mengambil semua data pelanggan, data pelanggan berdasarkan ID, menambahkan pelanggan baru, memperbarui data pelanggan, dan menghapus data pelanggan. Controller ini berinteraksi dengan file model Customers.php.
+File Controller-controller ini bertugas mengelola operasi CRUD (Create, Read, Update, Delete)
+- CustomerController.php
+- PurchaseController.php
+- SalesController.php
 
 => Folder Model
 - Customers.php:
