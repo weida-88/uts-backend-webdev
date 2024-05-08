@@ -30,7 +30,6 @@ Projek ini saya awali dengan membuat struktur folder sesuai dengan intruksi dan 
 
 <br>
 Kemudian setelah saya mebuat file tersebut, saya push ke repository github saya melalui terminal visual studio code saya. Berikut penjelasan dalam struktur folder tersebut:
-<br>
 
 ~~~
 =>> Folder public
