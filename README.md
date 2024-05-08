@@ -1,7 +1,7 @@
 <h1>Dokumentasi Projek Ulangan Tengah Semester Back End</h1>
 
-Nama    : Anak Agung Gde Weida Ksatriawarma
-NIM     : 230010002
+Nama    : Anak Agung Gde Weida Ksatriawarma<br>
+NIM     : 230010002<br>
 Kelas   : DI231
 
 Projek ini saya awali dengan membuat struktur folder sesuai dengan intruksi yaitu:
