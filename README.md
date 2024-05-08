@@ -2,7 +2,7 @@
 
 Nama    : Anak Agung Gde Weida Ksatriawarma<br>
 NIM     : 230010002<br>
-Kelas   : DI231
+Kelas   : DI231<br>
 
 
 
@@ -27,7 +27,7 @@ Projek ini saya awali dengan membuat struktur folder sesuai dengan intruksi dan 
 |--config
 |···|--database.php
 ~~~
-
+<br>
 Kemudian setelah saya mebuat file tersebut, saya push ke repository github saya melalui terminal visual studio code saya. Berikut penjelasan dalam struktur folder tersebut:
 
 ~~~
