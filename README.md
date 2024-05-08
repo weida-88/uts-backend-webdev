@@ -28,7 +28,7 @@ Projek ini saya awali dengan membuat struktur folder sesuai dengan intruksi dan 
 |···|--database.php
 ~~~
 
-Kemudian saya push ke repository github saya. Berikut penjelasan di dalam 
+Kemudian setelah saya mebuat file tersebut, saya push ke repository github saya melalui terminal visual studio code saya. Berikut penjelasan dalam struktur folder tersebut:
 
 ~~~
 =>> Folder public
