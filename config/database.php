@@ -1,6 +1,6 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'backend_di231');
+define('DB_NAME', 'db_xyz');
 define('DB_USER', 'backend_di231'); // root
 define('DB_PASS', 'backend_di231');
 
