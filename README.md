@@ -4,7 +4,9 @@ Nama    : Anak Agung Gde Weida Ksatriawarma<br>
 NIM     : 230010002<br>
 Kelas   : DI231
 
-Projek ini saya awali dengan membuat struktur folder sesuai dengan intruksi yaitu:
+
+
+Projek ini saya awali dengan membuat struktur folder sesuai dengan intruksi dan menjalankan XAMPP, didalam XAMPP aktifkan apache dan juga sql, dan juga mengimport file database db_xyz, untuk struktur filenya akan seperti ini:
 
 ~~~
 /uts-backend-webdev
