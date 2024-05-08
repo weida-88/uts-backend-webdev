@@ -58,6 +58,7 @@ Berisi file database.php.
 - database.php: Berfungsi  untuk konfigurasi hubungan ke database.
 ~~~
 
+<br>
 <h1>Refleksi Diri</h1>
 <h3>Tantangan dan Kesulitan</h3>
 Dalam projek ini saya mengalami beberapa kesulitan terutama pada membuat program yang sudah ditetapkan dalam struktur folder dan file pathnya, selain itu saya juga sedikit bingung di dalam function dan juga class OOP.
