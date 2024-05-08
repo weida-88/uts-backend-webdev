@@ -6,6 +6,7 @@ Kelas   : DI231
 
 Projek ini saya awali dengan membuat struktur folder sesuai dengan intruksi yaitu:
 
+~ ~ ~
 /uts-backend-webdev
 |--public
 |···|--index.php
@@ -23,6 +24,7 @@ Projek ini saya awali dengan membuat struktur folder sesuai dengan intruksi yait
 |
 |--config
 |···|--database.php
+~ ~ ~
 
 Kemudian saya push ke repository github saya. Berikut penjelasan di dalam 
 
